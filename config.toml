@@ -1,0 +1,38 @@
+baseURL = "https://spankie.live/"
+languageCode = "en-us"
+title = "dee daemon"
+theme = "hyde-hyde"
+
+[params]
+  description = "Documenting my experience with golang, cloud and everything tech"
+  sidebarSticky = true
+  highlightjs = true
+  highlightjsstyle="monokai"
+  highlightjslanguages = ["rust", "go", "javascript", "bash"]
+  themeColor = "theme-base-0g"
+
+  author = "Odohi David"
+# title = "Title"
+# description = "..."
+# authorimage = "/img/hugo.png"
+  dateformat = "Jan 2, 2006"
+
+  # sidebar, copyright & license
+  copyright = "spankie"
+  license = "CC BY-SA 4.0"
+  licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+  showBuiltWith = true
+
+
+[Menus]
+  main = [
+      {Name = "Home", URL = "/"},
+      {Name = "About", URL = "/about"}
+  ]
+
+[params.social]
+	twitter = "spankie_dee"
+	github = "spankie"
+
+  email = "odohi.david@gmail.com"
+#  gravatar = "odohi.david@gmail.com"
