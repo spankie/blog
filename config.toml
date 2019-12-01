@@ -23,6 +23,7 @@ theme = "hyde-hyde"
   licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
   showBuiltWith = true
 
+googleAnalytics = "UA-153489328-1"
 
 [Menus]
   main = [
