@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "dee daemon"
 theme = "hyde-hyde"
 
+googleAnalytics = "UA-153489328-1"
+
 [params]
   description = "Documenting my experience with golang, cloud and everything tech"
   sidebarSticky = true
@@ -22,8 +24,6 @@ theme = "hyde-hyde"
   license = "CC BY-SA 4.0"
   licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
   showBuiltWith = true
-
-  googleAnalytics = "UA-153489328-1"
 
 [Menus]
   main = [
