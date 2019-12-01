@@ -14,9 +14,9 @@ googleAnalytics = "UA-153489328-1"
   themeColor = "theme-base-0g"
 
   author = "Odohi David"
-# title = "Title"
-# description = "..."
-# authorimage = "/img/hugo.png"
+  # title = "Title"
+  # description = "..."
+  # authorimage = "/img/hugo.png"
   dateformat = "Jan 2, 2006"
 
   # sidebar, copyright & license
@@ -36,4 +36,4 @@ googleAnalytics = "UA-153489328-1"
 	github = "spankie"
 
   email = "odohi.david@gmail.com"
-#  gravatar = "odohi.david@gmail.com"
+  #  gravatar = "odohi.david@gmail.com"
